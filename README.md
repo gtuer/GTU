@@ -6,7 +6,15 @@
 💞️ I am looking to collobrate people who working together on subjects.
 📫 You can contacts me via Discord: https://discord.gg/rXu7UEVpSR
 
-# INSTRUCTIONS FOR USE
+# Recources For Study
+
+1. Summary for Key points. - Original Works.
+
+2. Correction Of Official Answers. - Original Works.
+
+3. Download Link to Official Answer.
+
+# OVERVIEW FOR STUDY
 
 1. Understand the content and subject style of the examinations for each subject
 2. Understand the dominant institutions and admission requirements for the corresponding subjects
