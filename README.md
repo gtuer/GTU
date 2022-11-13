@@ -33,6 +33,12 @@
 2. Waiting for reply.
    and other
 
+# Writing Team
+
+1. @zongyangx
+
+2. @MasterYangsValet
+
 # License
 
 1. Although uploaded to GitHub as a public service and open source project, it is not considered to have a fully suitable license at the moment. I will add to this in due course. But until then, please do not reproduce the content from this project on other position(e.g. other platforms, Re-release), and please do not use the content from this project for commercial purposes.
