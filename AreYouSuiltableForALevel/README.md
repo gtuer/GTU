@@ -1,4 +1,4 @@
-# Are You Suitable For A Level
+# Are You Suitable For A Level(will be update later)
 
 There are some test units prepared here which will take you approximately 5 days from learning them to taking the tests.
 During this time, if you have studied them independently and got a decent grade in the tests, then we think you can start your A Level studies either in Homeschool or in self-study mode.
@@ -11,5 +11,3 @@ If you look at the difficulty of the solutions, it is true that the extreme diff
 For example, if you were a top student yourself before switching to A Level, then to make your grades more competitive you will need to study 4 subjects and then build on that. Also if you are not a native English speaker, the issue of language will be present throughout your studies.
 So it seems (assuming you are a top science student) that the five subjects - Maths, Further Maths, Biology, Physics and IELTS - are not much less than the mainland entrance exams.
 And even if you are not a top student, the three subjects required in many school applications are the subjects without the language, which means you still need to study four subjects. For example, Maths, Biology, Physics, and IELTS.
-
-
