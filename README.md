@@ -1,6 +1,6 @@
 # GTU Mainland-Edition
 
-👋 Hi, I’m @zongyangx, the initiator of this project.
+👋 Hi, I’m @zongyangx, the initiator of this project. This projects will be complete at about Oct 2024.
 👀 This is a completely pro bono project.The complete GTU project will be improved as I learn more and more. For example：uploading my progress, following up on problems I encountered in my studies and how I solved them, and college applications.
 🌱 Learning continue...
 💞️ I am looking to collobrate people who working together on subjects.
